@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for the principals and masters of both colleges of Aberdeen against the magistrates of Aberdeen</title>
+            <author>University of Aberdeen.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76038</idno>
+            <idno type="STC">Wing A91aA</idno>
+            <idno type="STC">ESTC R232351</idno>
+            <idno type="EEBO-CITATION">99900195</idno>
+            <idno type="PROQUEST">99900195</idno>
+            <idno type="VID">137636</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76038)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137636)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2541:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for the principals and masters of both colleges of Aberdeen against the magistrates of Aberdeen</title>
+                  <author>University of Aberdeen.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Aberdeen? :</pubPlace>
+                  <date>1694?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>O copy, reel 2541, is stained at head.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Aberdeen --  Early works to 1800.</term>
+               <term>Universities and colleges --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:137636:1"/>
+            <pb facs="tcp:137636:1"/>
+            <head>
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> The MAGISTRATES of ABERDEEN.</head>
+            <p>
+               <seg rend="decorInit">T</seg>H<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ha<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at Di<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>der and <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the Town of <hi>Aberdeen,</hi> at the <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of M<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> laſt <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Oc<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſion of the Mag<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> M<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the New <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was a Pro<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> before the <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thereto; And concluding them guilty, and that they ought to be puniſhed as Art and Part.</p>
+            <p>When this Proceſs was called, many of the Students were abſent, and the Libel with a Reconvention raiſed by the Maſters for their own Defence, were admitted to Probation before a Committe.</p>
+            <p>The Probation adduced by either party being now taken, The Cauſe is ready to be adviſed.</p>
+            <p>The Principals and Maſters are not to trouble the Lords of Privy Council with a Re<g ref="char:EOLhyphen"/>lation of the Libel, concerning the Circumſtances of the Tumult and Rabble commit<g ref="char:EOLhyphen"/>ted by the Students and others; For albeit many of the Particulars Libelled be not prov<g ref="char:EOLhyphen"/>en, yet it was from the beginning acknowledged, that there was a Tumult upon the Occaſion foreſaid whereof the Principals and Maſters were not only Innocent, But they did ever teſtify their abhorrance of ſuch Methods of Rabbling upon any Occaſion; Eſpecially upon the LORDS Day, which they conſider as an open Contempt, not only to Civil Authority, and the flouriſhing of Letters; But alſo to be inconſiſtent with the Reverence and Honour due to the <hi>Divine MAJESTY.</hi> And therefore, they nei<g ref="char:EOLhyphen"/>ther did nor will Paliat, or Alleviat any Circumſtance of all that is Libelled againſt theſe who were acceſſory to the Tumult, but ſingly clear themſelves of any Guilt or Ac<g ref="char:EOLhyphen"/>ceſſion thereto; And ſhall endeavour to ſatisfy the Privy Council, that they had uſed their outmoſt endeavour to prevent any ſuch Diſorder, and reſtrain the Students from being Intereſted in it, and that they had puniſhed theſe who were guilty, with the greateſt ſeverity that the Rules, or Foundations, or any former Precedent in either Col<g ref="char:EOLhyphen"/>ledge did allow.</p>
+            <p>The points libelled againſt the Maſters of either Colledges, were either for making appear their acceſſion to, or countenancing of the Rabble, or their negligence in re<g ref="char:EOLhyphen"/>ſtraining and puniſhing of the guilty.</p>
+            <p>As to the Defenders Acceſſion, There is nothing at all proven againſt the Principals or Maſters of either Colledge, nor was there ſo much as one Interrogatur offered to the Witneſſes to fix a guilt upon any of them, except Mr. <hi>Robert Paterſon,</hi> the Principal of the <hi>Mariſchal</hi>-colledge, and there are particular ſatisfying Anſwers ſubjoyned for clear<g ref="char:EOLhyphen"/>ing him of any guilt that can be imported from the Depoſitions of the Witneſſes, as to his Part.</p>
+            <p>It is alſo clear, That the Maſters did uſe all poſſible means to prevent that Diſor<g ref="char:EOLhyphen"/>der, in ſo far as the Students of either Colledges were conveened, either in the Com<g ref="char:EOLhyphen"/>mon hall or in their ſeveral Claſſes, and were there Admoniſhed by the Maſters or Principals, that they ſhould neither occaſion or be aſſiſting in any diſorder, nor be preſent at the New Church, holding furth the bad conſequences that might follow both to themſelves, and their Parents: And likewiſe that they employed ſuch of their Scholars, and Pedagogues, and Governours, as might have moſt influence to divert them from any irregular courſe; And farder, upon the Sabboth, the Maſters of the Kings Colledge being accuſtomed to go along with the Students from the Colledge to the Church, They were careful to ſhut the Colledge gates, and to call all that were within to the Common-School, and to mark the Abſents, which was very uſeful to diſ<g ref="char:EOLhyphen"/>cover thoſe who were intereſſed in the Tumult. And the Maſters of the <hi>Mariſchal</hi> Col<g ref="char:EOLhyphen"/>ledge, not being accuſtomed to conveen their Scholars, and to go in a body to the Church, they went timeouſly to the Loft appointed for the Maſters and Students; And ſo ſoon as the Scholars came in, were careful to lock the door of the loft; that theſe who came once in, could not get out, Tho it be clearly proven, that ſeveral attempts were made by the Scholars within to eſcape out of the loft, ſo that if they could not reclaim ſuch as had <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>wn off their ſubjection and Obedience for a time, they at leaſt reſtrained all that <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their power.</p>
+            <pb n="2" facs="tcp:137636:2"/>
+            <p> When the Rabble was ended, ſome time was ſpent in communing with the Magi<g ref="char:EOLhyphen"/>ſtrats for laying down ſuch rules as might prevent the like in time coming, and annent the manner of puniſhing what was paſt; And that communing having taken no effect, every ſingle perſon that was guilty, was publickly whiped with as great ſeverity and ſhame to them, as ever was practiſed in the Colledge: And that none might e<g ref="char:EOLhyphen"/>ſcape; Intimation was made to the Magiſtrats, before the Maſters proceeded to diſ<g ref="char:EOLhyphen"/>cipline, that they might affoord what evidence they could.</p>
+            <p>Nothing was inſinuate by the Libel or ſince, for loading the Maſters of either Col<g ref="char:EOLhyphen"/>ledge with any Acceſſion or ſo much as negligence in the matter; But what may be clearly elided by the probation and relation abovementioned: But for rem<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving everyſhadow. The maſters ſhal more particularly anſwer the ſeveral grounds inſiſted on.</p>
+            <p>And, <hi>1mo.</hi> As to the Kings Colledge, it was alleadged that when the Maſters obſerved their ſtudents abſent, they ought to have gone to ſearch after them, or cauſ<g ref="char:EOLhyphen"/>ed do the ſame. To this it is Anſwered, that the new Church being above the diſ<g ref="char:EOLhyphen"/>tance of a Mile without their bounds and juriſdiction, and the Maſters not knowing that there was any diſorder, But having only uſed precaution for preventing it. Their care was more prudently employed for retaining theſe who remained, being the far greater part, than to expoſe their authority by ſearching theſe who were abſent, where<g ref="char:EOLhyphen"/>by theſe who remained were much more like to break looſe, then the abſents were to be reclaimed,. Beſides the full number uſes never to be preſent; Some being accuſtomed to go to meeting houſes, others to ſtay in the Town; And the Maſters had never any In<g ref="char:EOLhyphen"/>formation of the tumult, till both the Sermon, and it was ended, and what they did was only for preventing diſorder.</p>
+            <p>As to the <hi>Mariſchal</hi> Colledge, It is Alleadged againſt all the Maſters, that the tumult having happened in the new Church, devided only by a Partition-wall from the Church where they ſat, they uſed no means to reſtrain the Rabble; And farther, that <hi>Kincouſies</hi> Son one of the Rabble, having entered to the Church, where the Prin<g ref="char:EOLhyphen"/>cipal and Maſters were, with a drawn ſword in his hand, and having gone to Mr. <hi>Burnet</hi> Miniſter, then ſitting at the Pulpit, deſired him to preach in the New Church, yet the Maſters did not apprehend or reſtrain him. <hi>2do.</hi> That Mr. <hi>Alexander Moor</hi> the Youngeſt Regent, having offered to go out of the Loft, to ſeize upon that irregular Student, the Principal would not ſuffer it, as the ſaid Regent declared to one of the Witneſſes.</p>
+            <p>It is anſwered, <hi>1mo.</hi> The probation clears that the Rabble and Tumult was ſo great, as to diſſipate the whole Congregation, And this Rabble was compoſed not only of the Students of both Colledges, but of the Inhabitants of the Town, over whom the Principal and Maſters of the <hi>Mariſchal</hi> Colledge had no influence, ſo that if they ſhould have attempted to diſſipate the Rabble, who could not be reſtrained, by the Reſpect that was due to the worſhip of GOD, when the People were ſinging Pſalms; They had no reaſon to believe that their appearing would have had any other Effect, then to make their Authority contemptible. And Experience teaches, That a Rabble is not to be compeſced, but either by Force or courſe of time. <hi>2do.</hi> Principal <hi>Paterſon</hi> had mixed himſelf with a former Rabble, for reclaiming of certain Students, and that was interprete to be a Crime, and upon which he was called be<g ref="char:EOLhyphen"/>fore the <hi>Privy Council,</hi> as an Abbater of that Rabble, from which he was Aſſoilȝied by the Juſtice of the <hi>Privy Council,</hi> after long Attendance, and much Expence, which taught him that Prudence not to meddle or immix himſelf with a Rabble again: And really many Beholders may more eaſily obſerve who are amongſt the Rabble, then what part they act in it; And therefore he did abſtain from joining any manner of way with that irregular Company; But it is very hard upon him, that he ſhould firſt be purſued by the Magiſtrates, becauſe he Did, And again, becauſe bid Did Not, go towards or immix with a Rabble, to reclaim his Scholars; So that either ſide of the contradiction is made a crime to him. <hi>3tio.</hi> The Witneſſes clear, And it is alſo evi<g ref="char:EOLhyphen"/>dent by an inſtrument taken by the Magiſtrates, That the Rabble ſhut the whole doors of the New Church, and would not ſuffer the Magiſtrates or others to have Acceſs.</p>
+            <p>
+               <hi>4to.</hi> As to what relates to <hi>James Irving Kincouſſies</hi> ſon; It is true he entered the Church, where the Maſters were, in a moſt Irregular manner, whither with a Sword or not, doth not clearly appear; But it was not poſſible to reſtrain or ſecure him. For <hi>1mo.</hi> The Witneſſes Depone he remained only two Minuts in the Church, and then run out to his Accomplices; in which time it was impoſſible to have reached him, the Maſters Loft being at a great diſtance, and Mr. <hi>Burnet</hi> the Miniſter doth ſpecially De<g ref="char:EOLhyphen"/>pone, that the Maſters could not poſſibly have come his length. <hi>2do.</hi> It had been undecent and improper for the Maſters to have made Noiſe and Diſturbance in the Church, during the moment he ſtayed, which would have increaſed the Diſorder, neither were they in ſafety to meddle with him, all his Accomplices being in the Church-yard; and theſe who attempt upon one ſingle perſon concerned in a Rabble muſt expect the furry of all who are Intereſted in it. <hi>3tio.</hi> The Depoſitions of the Witneſſes clear, that theſe who were within the Loft, and under ſome meaſure of Obedience (who were three fourth parts of the whole) made ſeveral Attempts to open the Loft door and eſcape; And if any of the Maſters had made the door open, it was obvious that theſe who attempted to get out, would then have gone and joyned with
+<pb n="3" facs="tcp:137636:2"/>the Rabble; So that there was a more apparent danger, that theſe who remained in Subjection, would throw off the ſame, than that others of their Schollars who were but a ſmall part of the whole would be reclaimed. <hi>4to.</hi> As to the alleageance that one of the Regents offered to remove to ſecure <hi>Kincouſſies</hi> ſon, and was hindered by the Principal. It is anſwered, this is only Deponed by a ſingle Witneſs, <hi>ex auditu,</hi> who ſayes, that Mr. <hi>Alexander More</hi> Regent declared ſo to him. But farder the Principal is content that Mr. <hi>More</hi> be examined, who will Depone that the thing is falſe in Fact, and that the Principal never ſpoke to him upon that Subject, and the Principal is con<g ref="char:EOLhyphen"/>tent to purge himſelf upon Oath, and it carrys no probability in it ſelf, Mr. <hi>More</hi> be<g ref="char:EOLhyphen"/>ing at a conſiderable diſtance, three Elder Regents Interveening betwixt him and the Principal, who could not but have heard what was ſpoken to him, neither is it of im<g ref="char:EOLhyphen"/>port, tho the Principal had ſaid it, Becauſe it was neither prudence in him, nor in any of the Regents, to have given opportunity to the Students within the Loft, to have eſcaped by opening the Door.</p>
+            <p>It is farder alledged againſt Principal <hi>Paterſon,</hi> two Witneſſes have deponed, that he ſaid the Beſt and Worſt of the Rabble was Extruſion.</p>
+            <p>To this it is anſwered, <hi>1mo.</hi> None of the Witneſſes do Depone, that they heard the Principal ſay ſo; But one of them declares he heard ſome Students ſay, that they heard the Principal ſay it, but that he does not know, who were theſe Students; Another Witneſs Depones, be heard two of the Students whom he names, ſay it, But nei<g ref="char:EOLhyphen"/>ther of theſe Witneſſes are <hi>probative,</hi> both being <hi>ex aditu,</hi> that they heard men ſay, that the Principal ſaid ſo, and Oaths only and not Aſſertions are probative: But farder, To ſatisfy the Privy Council, that the thing is falſe on the matter, the Principal is willing to purge himſelf upon Oath, that he never ſayd any ſuch thing, and that he never ſpoke with the perſons who are alleadged to have heard it. And albeit no par<g ref="char:EOLhyphen"/>ty be bound to undergo two manners of Probation, both by Oath and Witneſſes, yet he is willing to undergo both.</p>
+            <p>It is farder alleadged againſt Principal <hi>Parterſon,</hi> It is deponed againſt him, That he ſaid, he ſaw the Rabble go by Clerk <hi>Hayes</hi> houſe, and ſaw <hi>Kincouſſies</hi> ſon joyn with them.</p>
+            <p>To this it is anſwered, <hi>1mo.</hi> There is only a ſingle Teſtimony as to this point, and ſo not <hi>probative, 2do.</hi> Tho he had ſeen the rabble, It did import nothing, ſeeing it was not in his power to reſtrain it, but as it hath been formerly ſaid, the Students in the Colledge whereof he was principal had thrown off the Maſters Authority, And they were but a very ſmall part of the whole rabble, ſo that it was neither poſſible to reſtrain, nor prudence to have medled with them, but his care was excerciſed in retaining theſe who remained from Joyning with the reſt.</p>
+            <p>And as to what is lybelled, That an Indignity was done to the Magiſtrats at <hi>Dr<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi>'s Son's burial, it is clear by the depoſitions of the Witneſſes, that the Maſters endea<g ref="char:EOLhyphen"/>voured to reſtrain the Students from that alleadged diſorder, and that the only three perſons who were guilty thereof. <hi>Viz, James Grant, James Irvine,</hi> and <hi>James Leſly,</hi> were publickly extruded the Colledge, for the ſame, And diſcharged to be received back again to the Colledge, untill firſt they made ſatisfaction to the Provoſt of <hi>Aberdeen</hi> for that Offence, and none of them have been received within the Colledge ſince that time.</p>
+            <p>And whereas, It is pretended, That the puniſhment inflicted by the Maſters, was only a Sham; And that they delayed to inflict any puniſhment untill they were infor<g ref="char:EOLhyphen"/>med, That a Council proceſs was raiſed againſt them; And that Mr. <hi>Robert Paterſon</hi> by his conſtant meddling in all the Towns affairs, is the chief Inſtrument and Occaſi<g ref="char:EOLhyphen"/>on of all the Diſorders that happened in that place theſe ſeveral years bygone. It is anſwered, That it is evident by the probation, that the puniſhment inflicted was the moſt Univerſal, Impartial, Severe, and Ignominious Ceuſure, that ever was inflicted in theſe Colledges; None of the guilty perſons having eſcaped the ſame, neither have the Maſters power by the foundation to inflict any greater puniſhment then that was. <hi>2do.</hi> It is an Act of the greateſt malice, and diſingenuity that can be imagined for the Pur<g ref="char:EOLhyphen"/>ſuers, to Object the Maſters, Their delaying to inflict that puniſhment for ſome days, Becauſe the Maſters apprehending juſtly, that this diſorder deſerved a more ſevere pu<g ref="char:EOLhyphen"/>niſhment then they were capable to inflict, They Applied to the Magiſtrates for their Advyce and Concurrance anent the Way and Manner of puniſhing of what was paſt; and laying down of methods for preventing the like diſorder for the future; And had ſeveral Tryſtings and Communings with them from time to time thereanent, during all which ſpace, the Maſters were endeavouring to get information and probation a<g ref="char:EOLhyphen"/>nent the whole Students, that had been any wayes acceſſory to that Rabble; And hav<g ref="char:EOLhyphen"/>ing gotten full and exact probation againſt them all, They puniſhed the whole Stu<g ref="char:EOLhyphen"/>dents in both Colledges, in manner above repreſented, the very next day after the tryſting and communing was given over; And as the puniſhment was inflicted many days before the raiſing of this lybel; So it is moſt faiſe, That the Maſters knew of any Application made to the privy Council, before the inflicting of the ſaid puniſhment, the Magiſtrats having denyed the ſame to them, at all their meetings and communings.</p>
+            <p>And as to Principal <hi>Paterſon,</hi> his alleadged meddling in the Town affairs; It is an<g ref="char:EOLunhyphen"/>ſwered, That the Principal of the <hi>Mariſchal</hi> Colledge being, paſt all memory, in uſe to be-elected a Counſellour of the Burgh of <hi>Aberdeen,</hi> and the ſaid Mr. <hi>Robert</hi> being elected a
+<pb n="4" facs="tcp:137636:3"/>Counſellor in the years 1686, 1687, and 1688, when ſome of <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> plyance with a Letter from a great man, Endeavour to <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> brought in upon the Town Counſel, And to have the <hi>Trinity Church</hi> allowed for a Popiſh Chappel to the Prieſts, Mr. <hi>Robert Paterſon</hi> did openly oppoſe and reſiſt the ſame, for which he was ſeverely threatened by thoſe who were then eminent in the Government, And for which he can produce clear and unqueſtionable documents. And a Proclama<g ref="char:EOLhyphen"/>tion having then come out, diſcharging all Oaths to be impoſed upon any perſon. The Principals and Maſters of both theſe Colledges did meet, and firmly reſolved, notwithſtanding thereof to cauſe their Students ſwear to mantain and defend the Pro<g ref="char:EOLhyphen"/>teſtant Religion before they were <hi>Graduat,</hi> and actually made the Students of both Col<g ref="char:EOLhyphen"/>ledges, ſwear the ſame; And for doing whereof, there was an complaint raiſed againſt them all before the Privy Council, at the then Kings Advocats inſtance concluding de<g ref="char:EOLhyphen"/>privation and other puniſhments; as is clear by a double of the Letters produced in proceſs. And when <hi>Buchan</hi> and <hi>Cannon</hi> did attempt to attack the Town of <hi>Aberdeen;</hi> The Principal and hail maſters of that Colledge did chearfully take Arms in defence of the place, when moſt of theſe purſuers were not to be ſeen as is weel known to ſome of the honourable Privie Council who were then there preſent, and others of his Majeſties Officers who were there likewayes preſent at the time, And this is all the medling that can be obtruded againſt Mr. <hi>Robert Paterſon.</hi>
+            </p>
+            <p>And as to that pretence, that Mr. <hi>Robert Paterſon</hi> is a Commiſſar, and ſo cannot attend both Charges. It is anſwered, that this being <hi>jus tertii,</hi> to the purſuers, their libelling the ſame as a Crime againſt Mr. <hi>Robert Paterſon,</hi> demonſtrates their unjuſt &amp; implacable malice againſt him, and the Sallarie due to the Principal of the <hi>Mariſchal</hi> Colledge, be<g ref="char:EOLhyphen"/>ing leſs then 500 Mrks <hi>per annum.</hi> No perſon is able to live on ſuch a mean Sallary, nor was there ever any Principal in that Colledge, who had not an other Imployment be<g ref="char:EOLhyphen"/>ſides; And this individual objection was proponed before the late Viſitation of the Col<g ref="char:EOLhyphen"/>ledge at <hi>Aberdeen,</hi> and juſtly repelled upon the account foreſaid; And the Inſtance given anent Commiſſar <hi>Wiſhart</hi> is moſt calumnious, Commiſſar <hi>Wiſhart</hi> having been both Commiſſar, and one of the Regents of the Colledge of <hi>Edinburgh</hi> for 18 years at leaſt; Untill by reaſon of his old Age, he thought fit to demit his place as Regent; And albeit there be a competent Sallary due to the Principal of <hi>Edinburgh</hi> Colledge, <hi>Viz.</hi> 2000. merks, and a dwelling houſe; Yet the ſaids Principals have alwayes been one of the Miniſters of the Town, and received a diſtinct Stipend for the ſame.</p>
+            <p>And ſeeing the Maſters of both theſe Colledges, did all unanimouſly comply with, and ſubmit to their Majeſties Government; which none of the other Colledges of the Kingdome did. And that it is evident from the premiſſes, that no Maſters in the World could have done more to have prevented that diſorder, and to puniſh all that were acceſſorie thereto, with exemplar ſeveritie then theſe Defenders did, They ought to be aſſoylied from this groundleſs and malicious complaint; And the Purſuers ordain<g ref="char:EOLhyphen"/>ed to refound the expence they have been put too; Eſpecially, ſeeing by an Act of pri<g ref="char:EOLhyphen"/>vy Council produced in proceſs, The Magiſtrats are oblidged to apprehend; And ſecure all Students who commit any diſorder within the Burgh. And Albeit it be ac<g ref="char:EOLhyphen"/>knowledged in their own Lible, That both the time of the Tumult, and dayly there<g ref="char:EOLhyphen"/>after, the guilty ſtudents were frequently walking on their ſtreets, yet they uſed not the leaſt endeavours to apprehend or ſecure any of them.</p>
+            <p>
+               <hi>The Lords of Their Majeſties Privy Council, are Humbly Deſired to Conſider, That there is no Probation as yet adduced, For proving that part of the Reconvention againſt</hi> Cruckſhank, <hi>and</hi> Gellie; <hi>And therefore, before any Report be taken in, That Their Lordſhips would Ordain the Witneſſes to be examined, Who its preſumed, will prove againſt them, in the Terms Lybelled.</hi>
+            </p>
+            <pb facs="tcp:137636:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
